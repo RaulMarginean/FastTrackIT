@@ -1,4 +1,4 @@
-package abstractClasses;
+package org.FastTrackIt.abstractClasses;
 
 public class Dog extends Animal{
     private int Weight;

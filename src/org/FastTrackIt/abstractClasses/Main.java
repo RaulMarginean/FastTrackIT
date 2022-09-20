@@ -1,4 +1,4 @@
-package abstractClasses;
+package org.FastTrackIt.abstractClasses;
 
 public class Main{
     public static void main(String[] args) {

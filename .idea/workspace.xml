@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Creare Curs10">
-      <change afterPath="$PROJECT_DIR$/src/abstractClasses/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractClasses/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractClasses/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractClasses/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Abstract Class">
+      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/ArrayClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/ListExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/SetExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +50,52 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstractClasses.Main" />
+  <component name="RunManager" selected="Application.SetExamples">
+    <configuration name="ArrayClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.FastTrackIt.Collections.ArrayClass" />
       <module name="CourseCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstractClasses.*" />
+          <option name="PATTERN" value="org.FastTrackIt.Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.FastTrackIt.Collections.ListExamples" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.FastTrackIt.Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.FastTrackIt.abstractClasses.Main" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.FastTrackIt.abstractClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.FastTrackIt.Collections.SetExamples" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.FastTrackIt.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,6 +105,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetExamples" />
+        <item itemvalue="Application.ListExamples" />
+        <item itemvalue="Application.ArrayClass" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -98,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663691601693</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Abstract Class">
+      <created>1663693693683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663693693683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Creare Curs10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creare Curs10" />
+    <MESSAGE value="Abstract Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract Class" />
   </component>
 </project>

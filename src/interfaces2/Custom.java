@@ -1,4 +1,4 @@
-package org.fasttrackit.interfaces2;
+package interfaces2;
 
 import java.util.ArrayList;
 import java.util.List;

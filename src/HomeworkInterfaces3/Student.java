@@ -1,4 +1,4 @@
-package org.fasttrackit.HomeworkInterfaces3;
+package HomeworkInterfaces3;
 
 public class Student {
     private static int gradeSum = 0;

@@ -1,4 +1,4 @@
-package org.fasttrackit.HomeworkInterfaces2;
+package HomeworkInterfaces2;
 
 public class Homework7Ex3 {
     public static void main(String[] args) {

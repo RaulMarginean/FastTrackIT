@@ -1,4 +1,4 @@
-package org.fasttrackit.interfaces2;
+package interfaces2;
 
 public class Romanian implements Citizen{
     private int age;

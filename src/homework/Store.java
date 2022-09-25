@@ -1,4 +1,4 @@
-package org.fasttrackit.homework;
+package homework;
 
 public class Store {
     public static void main(String[] args) {

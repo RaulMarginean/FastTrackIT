@@ -1,4 +1,4 @@
-package org.fasttrackit.interfaces2;
+package interfaces2;
 
 public class Rebel implements Person{
     private int age;

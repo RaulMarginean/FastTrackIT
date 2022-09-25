@@ -1,4 +1,4 @@
-package org.fasttrackit.HomeworkInterfaces2;
+package HomeworkInterfaces2;
 
 public interface Behavior {
     void walk(String walkmessage);

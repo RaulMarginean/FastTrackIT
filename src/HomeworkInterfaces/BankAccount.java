@@ -1,4 +1,4 @@
-package org.fasttrackit.HomeworkInterfaces;
+package HomeworkInterfaces;
 
 public interface BankAccount {
     void account(String message);

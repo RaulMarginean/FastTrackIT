@@ -1,4 +1,4 @@
-package org.fasttrackit.HomeworkInterfaces;
+package HomeworkInterfaces;
 
 public class Person {
     private BankAccount bankAccount;

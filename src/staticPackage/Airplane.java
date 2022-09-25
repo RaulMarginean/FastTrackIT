@@ -1,4 +1,4 @@
-package org.fasttrackit.staticPackage;
+package staticPackage;
 
 public class Airplane {
     private static final double GRAVITY_COEFICIENT = 9.8;

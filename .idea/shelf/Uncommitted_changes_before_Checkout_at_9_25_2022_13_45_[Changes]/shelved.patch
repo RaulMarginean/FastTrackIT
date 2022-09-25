@@ -1,0 +1,51 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,15 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Abstract Class">
+-      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/ArrayClass.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/ListExamples.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/SetExamples.java" afterDir="false" />
++    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="About Collections">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Animal.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Cat.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Dog.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Main.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -149,7 +142,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1663693693683</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="About Collections">
++      <created>1663697921782</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1663697921782</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -167,6 +167,7 @@
+     <MESSAGE value="First Commit" />
+     <MESSAGE value="Creare Curs10" />
+     <MESSAGE value="Abstract Class" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Abstract Class" />
++    <MESSAGE value="About Collections" />
++    <option name="LAST_COMMIT_MESSAGE" value="About Collections" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -1,4 +1,4 @@
-package org.fasttrackit.interfaces2;
+package interfaces2;
 
 public interface Citizen extends Person{
     long getIdentifier();

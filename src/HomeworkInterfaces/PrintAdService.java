@@ -1,4 +1,4 @@
-package org.fasttrackit.HomeworkInterfaces;
+package HomeworkInterfaces;
 
 public class PrintAdService implements AdvertismentProvider{
     @Override

@@ -1,4 +1,4 @@
-package org.fasttrackit.interfaces;
+package interfaces;
 
 public class KFC implements FoodProvider{
     public static final String NAME = "KFC";

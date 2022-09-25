@@ -1,5 +1,5 @@
-package org.fasttrackit.accessmodifier;
-import org.fasttrackit.homework.Bottle;
+package accessmodifier;
+import homework.Bottle;
 
 public class Person {
     public static void main(String[] args) {

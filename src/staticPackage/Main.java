@@ -1,4 +1,4 @@
-package org.fasttrackit.staticPackage;
+package staticPackage;
 
 public class Main {
     public static void main(String[] args) {

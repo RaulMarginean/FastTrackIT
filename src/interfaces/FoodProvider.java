@@ -1,4 +1,4 @@
-package org.fasttrackit.interfaces;
+package interfaces;
 
 public interface FoodProvider {
     String deliverFood();

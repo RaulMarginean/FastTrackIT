@@ -4,14 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="" />
+    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/diamondinterface/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/diamondinterface/MountainBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/diamondinterface/NotRelatedToBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/diamondinterface/PegasBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs8Homework/Cosmetics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Cosmetics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs8Homework/Electronics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Electronics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs8Homework/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Fridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs8Homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs8Homework/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs8Homework2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs8Homework2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2/Person.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2F2XKl8dtrH0FSP7JVg880mbs7F" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

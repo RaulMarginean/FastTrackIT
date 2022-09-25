@@ -1,4 +1,4 @@
-package Curs8Homework;
+package org.fasttrackit.Curs8Homework;
 
 public class Product {
     private String name;

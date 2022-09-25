@@ -1,4 +1,4 @@
-package Curs8Homework2;
+package org.fasttrackit.Curs8Homework2;
 
 import java.time.LocalDateTime;
 

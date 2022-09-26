@@ -8,7 +8,7 @@ public class Main {
         Fridge fridge = new Fridge(800,500,"Casnice",100,100,500,300,-3);
 
 
-        System.out.println());
+        System.out.println();
 
     }
 }

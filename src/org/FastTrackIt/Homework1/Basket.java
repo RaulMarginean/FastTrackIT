@@ -4,7 +4,8 @@ import java.util.*;
 
 public class Basket {
     private static List<String> fruits;
-    private int maxCapacity;
+
+        private int maxCapacity;
 
     public static void main(String[] args) {
         List<String>strings = new ArrayList<>();

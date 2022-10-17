@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Abstract Class">
-      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/ArrayClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/ListExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Collections/SetExamples.java" afterDir="false" />
+    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Commit Curs 10 second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/abstractClasses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/FastTrackIt/Homework1/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Homework1/Basket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/FastTrackIt/Homework3/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Homework3/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/FastTrackIt/Homework3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Homework3/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Curs10" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,7 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F2XKl8dtrH0FSP7JVg880mbs7F" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +45,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager" selected="Application.SetExamples">

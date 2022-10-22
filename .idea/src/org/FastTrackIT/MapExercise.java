@@ -16,7 +16,7 @@ public class MapExercise {
         System.out.println(nameToAge);
         System.out.println(nameToAge.keySet());
 
-        if(nameToAge.containsKey("Mark")){
+        if(!nameToAge.containsKey("Mark")){
             nameToAge.put("Mark",33);
         }
         nameToAge.putIfAbsent("Mark", 33);

@@ -21,6 +21,8 @@ public class MapExercise {
         }
         nameToAge.putIfAbsent("Mark", 33);
         System.out.println(nameToAge);
+
+        System.out.println(nameToAge.get("Angela"));
     }
 
 

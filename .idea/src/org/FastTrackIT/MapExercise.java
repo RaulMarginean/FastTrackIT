@@ -23,6 +23,12 @@ public class MapExercise {
         System.out.println(nameToAge);
 
         System.out.println(nameToAge.get("Angela"));
+
+        if(nameToAge.containsValue(40)){
+            System.out.println("We have 40 years old person");
+        }else{
+            System.out.println("no 40 years old person was found");
+        }
     }
 
 

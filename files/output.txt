@@ -1,2 +1,0 @@
-This is my first output file
-Thids is my second output file

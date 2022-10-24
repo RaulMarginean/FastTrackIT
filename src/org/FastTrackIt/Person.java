@@ -1,4 +1,4 @@
-package org.FastTrackIT;
+package org.FastTrackIt;
 
 public class Person {
     String name;

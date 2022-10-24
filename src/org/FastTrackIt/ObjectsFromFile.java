@@ -1,4 +1,4 @@
-package org.FastTrackIT;
+package org.FastTrackIt;
 
 import java.io.*;
 import java.util.ArrayList;

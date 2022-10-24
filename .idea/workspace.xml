@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Commit Curs 8 complet">
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/DatabaseAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/PersonData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/Programmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/diamondinterface/MountainBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/diamondinterface/MountainBike.java" afterDir="false" />
-    </list>
+    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Commit Curs 8 complet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

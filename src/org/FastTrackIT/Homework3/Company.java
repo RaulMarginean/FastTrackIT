@@ -1,7 +1,6 @@
-package org.FastTrackIt.Homework3;
+package org.FastTrackIT.Homework3;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 public class Company {

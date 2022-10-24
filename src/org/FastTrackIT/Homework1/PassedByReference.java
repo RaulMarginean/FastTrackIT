@@ -1,7 +1,6 @@
-package org.FastTrackIt.Homework1;
+package org.FastTrackIT.Homework1;
 
 import java.util.ArrayList;
-import java.util.stream.BaseStream;
 
 public class PassedByReference {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.FastTrackIt.Collections;
+package org.FastTrackIT.Collections;
 
 public class ArrayClass {
     public static void main(String[] args) {

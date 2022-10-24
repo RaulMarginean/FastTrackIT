@@ -1,4 +1,4 @@
-package org.FastTrackIt.Collections;
+package org.FastTrackIT.Collections;
 
 import java.util.*;
 

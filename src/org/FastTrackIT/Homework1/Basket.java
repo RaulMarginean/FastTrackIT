@@ -1,4 +1,4 @@
-package org.FastTrackIt.Homework1;
+package org.FastTrackIT.Homework1;
 
 import java.util.*;
 

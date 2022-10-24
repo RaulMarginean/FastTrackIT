@@ -1,4 +1,4 @@
-package org.FastTrackIT.Enums;
+package org.FastTrackIt.Enums;
 
 public enum CardinalPoints {
     NORTH("N"),

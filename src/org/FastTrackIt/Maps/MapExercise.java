@@ -1,4 +1,4 @@
-package org.FastTrackIT.Maps;
+package org.FastTrackIt.Maps;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package org.FastTrackIT.Enums;
+package org.FastTrackIt.Enums;
 
 public class EnumExercise {
     public static void main(String[] args) {

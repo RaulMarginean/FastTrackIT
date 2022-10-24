@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Correct commit Curs11">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Second Commit curs 11">
+      <change afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Enums/ComplexCardinalPoints.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/FastTrackIt/Enums/CardinalPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Enums/CardinalPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/FastTrackIt/Enums/EnumExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/FastTrackIt/Enums/EnumExercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -151,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666635923751</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Second Commit curs 11">
+      <created>1666636819548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666636819548</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +175,8 @@
     <MESSAGE value="Commit Curs 8 complet" />
     <MESSAGE value="First Commit Curs 11" />
     <MESSAGE value="Correct commit Curs11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correct commit Curs11" />
+    <MESSAGE value="Second Commit curs 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit curs 11" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

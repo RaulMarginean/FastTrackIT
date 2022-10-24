@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="First commit curs 11" />
+    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Commit Curs 8 complet">
+      <change afterPath="$PROJECT_DIR$/.idea/src/org/FastTrackIT/Enums/CardinalPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/org/FastTrackIT/Enums/EnumExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/org/FastTrackIT/Maps/MapExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/org/FastTrackIT/MapExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +19,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Curs9" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F2XKl8dtrH0FSP7JVg880mbs7F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -28,20 +44,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.EnumExercise">
+    <configuration name="EnumExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.FastTrackIT.Enums.EnumExercise" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.FastTrackIT.Enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.Curs8Homework.Main" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fasttrackit.Curs8Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MapExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.FastTrackIT.MapExercise" />
       <module name="CourseCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.FastTrackIT.*" />
+          <option name="PATTERN" value="org.FastTrackIT.Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.fasttrackit.Curs8Homework2and3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.Curs8Homework2and3.Main" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fasttrackit.Curs8Homework2and3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,7 +106,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumExercise" />
         <item itemvalue="Application.MapExercise" />
+        <item itemvalue="Application.org.fasttrackit.Curs8Homework2and3.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -64,28 +122,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663691092274</updated>
     </task>
-    <task id="LOCAL-00001" summary="First commit curs 11">
-      <created>1666437332745</created>
+    <task id="LOCAL-00001" summary="Commit Curs 8 complet">
+      <created>1664109610092</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1666437332745</updated>
+      <updated>1664109610092</updated>
     </task>
-    <task id="LOCAL-00002" summary="First commit curs 11">
-      <created>1666437418193</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1666437418193</updated>
-    </task>
-    <task id="LOCAL-00003" summary="First commit curs 11">
-      <created>1666437565681</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1666437565681</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,19 +144,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First commit curs 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit curs 11" />
+    <MESSAGE value="Commit Curs 8 complet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Curs 8 complet" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/.idea/src/org/FastTrackIT/MapExercise.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="personList" />

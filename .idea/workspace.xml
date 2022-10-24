@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Commit Curs 8 complet">
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/DatabaseAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/PersonData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2and3/Programmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework2/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/diamondinterface/MountainBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/diamondinterface/MountainBike.java" afterDir="false" />
-    </list>
+    <list default="true" id="8be8ccbb-9b55-4e3e-b68d-b59c03677f7d" name="Changes" comment="Comit Curs 7 modifcation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Curs10" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,13 +43,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.fasttrackit.Curs8Homework2and3.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.Curs8Homework.Main" />
+  <component name="RunManager" selected="Application.Algorithm">
+    <configuration name="Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Algorithm" />
       <module name="CourseCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fasttrackit.Curs8Homework.*" />
+          <option name="PATTERN" value="Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +57,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.fasttrackit.Curs8Homework2and3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.Curs8Homework2and3.Main" />
+    <configuration name="Homework7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkInterfaces.Homework7" />
       <module name="CourseCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.fasttrackit.Curs8Homework2and3.*" />
+          <option name="PATTERN" value="HomeworkInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework7Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkInterfaces2.Homework7Ex3" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkInterfaces2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkInterfaces3.Main" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeworkInterfaces3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.FastTrackIt.Collections.SetExamples" />
+      <module name="CourseCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.FastTrackIt.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,8 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.fasttrackit.Curs8Homework2and3.Main" />
+        <item itemvalue="Application.SetExamples" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Homework7Ex3" />
+        <item itemvalue="Application.Homework7" />
+        <item itemvalue="Application.Algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664109610092</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Comit Curs 10">
+      <created>1666630691651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666630691651</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Comit Curs 7 modifcation">
+      <created>1666630996050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666630996050</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,22 +165,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Curs 8 complet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Curs 8 complet" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/org/fasttrackit/Curs8Homework/Main.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="electronics" />
-      </configuration>
-    </watches-manager>
+    <MESSAGE value="Comit Curs 10" />
+    <MESSAGE value="Comit Curs 7 modifcation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comit Curs 7 modifcation" />
   </component>
 </project>

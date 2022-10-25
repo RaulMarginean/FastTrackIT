@@ -8,6 +8,6 @@ public class ReflexctionExercise {
         age.set(student, 14);
         System.out.println(student.getAge());
 
-        Student.class.
+        MyFirstAnnotation Student.class.getAnnotation(MyFirstAnnotation.class);
     }
 }
